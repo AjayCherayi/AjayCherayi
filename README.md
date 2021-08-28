@@ -18,16 +18,14 @@
 ### Languages and Tools:
 JavaScript
 <br />
-<br />
 
 ---
-
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 😜 Android Project [QR Registry](https://github.com/AjayCherayi/QR-Registry)
+1. 😜 First Android Project [QR Registry](https://github.com/AjayCherayi/QR-Registry)
 
 <!--END_SECTION:activity-->
 
