@@ -3,7 +3,8 @@
 ### I'm a Diploma student in Computer Engineering!!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ I'm intrested in UI designing
+- ⚡ I'm intrested in UI designing and Programming
+- 💞️ I’m looking to collaborate on ... Designares and Programmers
 
 ### Connect with me:
 
