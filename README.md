@@ -27,20 +27,13 @@ JavaScript
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Android Project [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+1. 😜 Android Project [QR Registry](https://github.com/AjayCherayi/QR-Registry)
 
 <!--END_SECTION:activity-->
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
 
 [instagram]: https://www.instagram.com/i.am.ajay.c
-[whatsapp]: https://www.instagram.com/i.am.ajay.c
-[gmail]: ajayinbox3@gmail.com
+[whatsapp]: https://wa.me/9947116012
+[gmail]: https://mail.google.com/mail/u/2/#inbox?compose=CllgCJTLGfFpNhfCxXmdpSQXqgCLNFXVKnftQSDPghRRVdLvFWdsKkrmchhCwNzbRsbbJgfRDnV
