@@ -35,4 +35,4 @@ JavaScript
 
 [instagram]: https://www.instagram.com/i.am.ajay.c
 [whatsapp]: https://wa.me/9947116012
-[gmail]: https://mail.google.com/mail/u/2/#inbox?compose=CllgCJTLGfFpNhfCxXmdpSQXqgCLNFXVKnftQSDPghRRVdLvFWdsKkrmchhCwNzbRsbbJgfRDnV
+[gmail]: ajayinbox@gmail.com
