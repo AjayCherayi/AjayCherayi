@@ -8,11 +8,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="gmail.com" width="22px" src="https://image.flaticon.com/icons/png/512/324/324123.png" />][gmail]
 
-[<img align="left" alt="Ajay | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Ajay | Whatsapp" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111763.png" />][whatsapp]
 
-[<img align="left" alt="Ajay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ajay | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111421.png" />][instagram]
 
 <br />
 
