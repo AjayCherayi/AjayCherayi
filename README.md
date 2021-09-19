@@ -35,4 +35,4 @@ JavaScript
 
 [instagram]: https://www.instagram.com/aj.ay.c
 [whatsapp]: https://wa.me/9947116012
-[gmail]: ajayinbox@gmail.com
+[gmail]: mailto:ajayinbox@gmail.com
