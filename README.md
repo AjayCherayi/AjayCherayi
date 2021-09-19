@@ -33,6 +33,6 @@ JavaScript
 </details>
 
 
-[instagram]: https://www.instagram.com/i.am.ajay.c
+[instagram]: https://www.instagram.com/aj.ay.c
 [whatsapp]: https://wa.me/9947116012
 [gmail]: ajayinbox@gmail.com
