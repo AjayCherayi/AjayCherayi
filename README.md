@@ -8,11 +8,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="gmail.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/3388/3388221.png" />][gmail]
+[<img align="left" alt="gmail.com" width="30px" src="https://cdn-icons-png.flaticon.com/512/3388/3388221.png" />][gmail]
 
-[<img align="left" alt="Ajay | Whatsapp" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111650.png" />][whatsapp]
+[<img align="left" alt="Ajay | Telegram" width="30px" src="https://cdn-icons-png.flaticon.com/512/3388/3388646.png" />][telegram]
 
-[<img align="left" alt="Ajay | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111336.png" />][instagram]
+[<img align="left" alt="Ajay | Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111336.png" />][instagram]
 
 <br />
 
@@ -34,5 +34,5 @@ JavaScript
 
 
 [instagram]: https://www.instagram.com/xolo.walker
-[whatsapp]: https://wa.me/+919947116012
+[telegram]: http://t.me/iamajayc
 [gmail]: mailto:ajayinbox3@gmail.com
