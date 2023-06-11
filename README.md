@@ -33,6 +33,6 @@ JavaScript
 </details>
 
 
-[instagram]: https://www.instagram.com/xolo.walker
+[instagram]: https://www.instagram.com/4jay.c
 [telegram]: http://t.me/iamajayc
 [gmail]: mailto:ajayinbox3@gmail.com
